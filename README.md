@@ -1,6 +1,6 @@
 ## Bioinformatics Community Breakfasts
 
-Come join the Harvard Chan Bioinformatics Core and other members of the Harvard Bioinformatics community for breakfast on the **last Wednesday of every month** between **9:00 & 10:30**!
+Join the Harvard Chan Bioinformatics Core and other members of the Harvard Bioinformatics community for breakfast on the **last Wednesday of every month** between **9:00 & 10:30**!
 
 ### These breakfasts will provide you with an opportunity to:
 

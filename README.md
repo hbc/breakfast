@@ -1,9 +1,16 @@
-<center><h2> The Harvard Chan Bioinformatics Core (HBC) is hosting...  </h2></center>
+<center><h2> The Harvard Chan Bioinformatics Core (HBC) presents...  </h2></center>
 
 
 <center> <h1> Monthly Bioinformatics Community Breakfasts </h1> </center>
 
-Join the Harvard Chan Bioinformatics Core and other members of the Harvard Bioinformatics community for breakfast on the **last Wednesday of every month** between **9:00 & 10:30**!
+<center> <h4> <b> Come join us! </b> </h4> </center>
+
+<p align="center">
+<img src="assets/images/breakfast_Monvej.png" width="600">
+</p>
+
+
+The [Harvard Chan Bioinformatics Core](http://bioinformatics.sph.harvard.edu/) **invite you for breakfast** on the **last Wednesday of every month** between **9:00 & 10:30**!
 
 ### These breakfasts will provide you with an opportunity to:
 

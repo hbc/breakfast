@@ -1,12 +1,12 @@
-<center><h2> The Harvard Chan Bioinformatics Core (HBC) presents...  </h2></center>
+<center><h2> The Harvard Chan Bioinformatics Core (HBC) presents:  </h2></center>
 
 
 <center> <h1> Monthly Bioinformatics Community Breakfasts </h1> </center>
 
-<center> <h4> <b> Come join us! </b> </h4> </center>
+<center> <h3> <b> Come join us! </b> </h3> </center>
 
 <p align="center">
-<img src="assets/images/breakfast_Monvej.png" width="600">
+<img src="assets/images/breakfast_Monvej.png" width="700">
 </p>
 
 
@@ -29,7 +29,9 @@ The [Harvard Chan Bioinformatics Core](http://bioinformatics.sph.harvard.edu/) *
 | September 25th | [Modell 100A at the HMS’ Jeffrey Modell Center for Immunology on the quad](https://goo.gl/maps/23ck7uK8LggeecGY6) |
 | October 30th | [Modell 100A at the HMS’ Jeffrey Modell Center for Immunology on the quad](https://goo.gl/maps/23ck7uK8LggeecGY6)|
 
-### 
 
-There is no registration for attending these, but seating and food will be available on a first-come-first-served basis. This is a time to get together without computers and we welcome anyone with bioinformatics questions or just an interest in bioinformatics, in addition to other bioinformaticians looking for a community. You don’t have to stay for the entire breakfast, but we plan to have introductions at 9:30am. 
+> There is no registration for attending these, but seating and food will be available on a first-come-first-served basis. This is a time to get together without computers and we welcome anyone with bioinformatics questions or just an interest in bioinformatics, in addition to other bioinformaticians looking for a community. You don’t have to stay for the entire breakfast, but we plan to have introductions at 9:30am. 
+
+
+**We hope to see you there!**
  

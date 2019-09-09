@@ -1,4 +1,4 @@
-<center><h2> The Harvard Chan Bioinformatics Core (HBC) presents:  </h2></center>
+<center><h3> The Harvard Chan Bioinformatics Core (HBC) presents  </h3></center>
 
 
 <center> <h1> Monthly Bioinformatics Community Breakfasts </h1> </center>

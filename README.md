@@ -1,4 +1,4 @@
-### The Harvard Chan Bioinformatics Core (HBC) is hosting
+<center> <h2> [The Harvard Chan Bioinformatics Core (HBC)](http://bioinformatics.sph.harvard.edu/) is hosting...  </h2> </center>
 
 
 <center> <h1> Monthly Bioinformatics Community Breakfasts </h1> </center>

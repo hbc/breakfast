@@ -10,7 +10,8 @@
 </p>
 
 
-The [Harvard Chan Bioinformatics Core](http://bioinformatics.sph.harvard.edu/) **invites you for breakfast** on the **last Wednesday of every month** between **9:00 & 10:30**!
+The [Harvard Chan Bioinformatics Core](http://bioinformatics.sph.harvard.edu/) **invites you for breakfast** on the **last Wednesday* of every month** between **9:00 & 10:30**!
+* *if the last Wednesday is a holiday, then the breakfast will be on the preceding Wednesday*
 
 ### These breakfasts will provide you with an opportunity to:
 
@@ -22,7 +23,7 @@ The [Harvard Chan Bioinformatics Core](http://bioinformatics.sph.harvard.edu/) *
   * [HMS Research Computing](https://rc.hms.harvard.edu/)
   * [BCH Research Computing](https://www.researchcomputing.org/)
  
-There is no registration for attending these, but seating and food will be available on a first-come-first-served basis. This is a time to get together without computers and we welcome anyone with bioinformatics questions or just an interest in bioinformatics, in addition to other bioinformaticians looking for a community. You don’t have to stay for the entire breakfast, but we plan to have **introductions at 9:30am**. 
+You don’t have to stay for the entire breakfast, but we plan to have **introductions at 9:30am**. There is no registration for attending these, but seating and food will be available on a first-come-first-served basis. This is a time to get together without computers and we welcome anyone with bioinformatics questions or just an interest in bioinformatics, in addition to other bioinformaticians looking for a community. 
 
 ### Dates and Locations: 
 

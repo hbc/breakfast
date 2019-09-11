@@ -31,6 +31,7 @@ The [Harvard Chan Bioinformatics Core](http://bioinformatics.sph.harvard.edu/) *
 | November 20th | [HMS’ Jeffrey Modell Center for Immunology, Room 100A](https://goo.gl/maps/23ck7uK8LggeecGY6) |
 | December 18th | [HMS’ Jeffrey Modell Center for Immunology, Room 100A](https://goo.gl/maps/23ck7uK8LggeecGY6) |
 
+
 * _**Detailed directions to the Jeffrey Modell Center for Immunology:** From the HMS quad, go to the building entrance of the Courtyard cafe, then turn left at the security guard. At the end of the hall is the Modell Center._
 
 

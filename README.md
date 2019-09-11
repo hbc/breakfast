@@ -10,7 +10,7 @@
 </p>
 
 
-The [Harvard Chan Bioinformatics Core](http://bioinformatics.sph.harvard.edu/) **invites you for breakfast** on the **last Wednesday of every month** between **9:00 & 10:30**!
+The [Harvard Chan Bioinformatics Core](http://bioinformatics.sph.harvard.edu/) **invites you for breakfast** on the **last Wednesday (non-holiday) of every month** between **9:00 & 10:30**!
 
 ### These breakfasts will provide you with an opportunity to:
 
@@ -32,7 +32,6 @@ You don’t have to stay for the entire breakfast, but we plan to have **introdu
 | October 30th | [HMS’ Jeffrey Modell Center for Immunology, Room 100A](https://goo.gl/maps/23ck7uK8LggeecGY6) |
 | November 20th | [HMS’ Jeffrey Modell Center for Immunology, Room 100A](https://goo.gl/maps/23ck7uK8LggeecGY6) |
 | December 18th | [HMS’ Jeffrey Modell Center for Immunology, Room 100A](https://goo.gl/maps/23ck7uK8LggeecGY6) |
-* *if the last Wednesday is a holiday, then the breakfast will be on the last non-holiday Wednesday*
 
 >_**Detailed directions to the Jeffrey Modell Center for Immunology:** From the HMS quad, go to the building entrance of the Courtyard cafe, then turn left at the security guard. At the end of the hall is the Modell Center._
 

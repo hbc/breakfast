@@ -24,6 +24,8 @@ The [Harvard Chan Bioinformatics Core](http://bioinformatics.sph.harvard.edu/) *
  
 There is **no registration** for attending these, but seating and food will be available on a first-come-first-served basis. This is a time to get together without computers and we welcome anyone with bioinformatics questions or just an interest in bioinformatics, in addition to other bioinformaticians looking for a community. You don’t have to stay for the entire breakfast, but we plan to have **introductions at 9:30am**. 
 
+**We hope to see you there!**
+
 ### Dates and Locations: 
 
 | Date |  Location |
@@ -35,5 +37,4 @@ There is **no registration** for attending these, but seating and food will be a
 
 >_**Detailed directions to the Jeffrey Modell Center for Immunology:** Enter the Armenise Building from the HMS Quad, turn left at the  security guard. The Modell center will be to the right of the hallway, follow the signs._
 
-**We hope to see you there!**
  

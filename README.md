@@ -30,7 +30,7 @@ There is **no registration** for attending these, but seating and food will be a
 
 | Date |  Location |
 | :----: | :----: |
-| September 25th | [HMS’ Jeffrey Modell Center for Immunology, Room 100A](https://goo.gl/maps/23ck7uK8LggeecGY6) |
+| September 25th | [HSPH, Building 2, Room 426](https://www.google.com/maps/place/Harvard+T.H.+Chan+School+of+Public+Health/@42.3357228,-71.1037184,17z/data=!4m12!1m6!3m5!1s0x89e37989613d953b:0x75b070e3a2833d41!2sFXB+Harvard+School+of+Public+Health!8m2!3d42.3357189!4d-71.1015243!3m4!1s0x89e379894a38df79:0x49f5d1374f9fccbc!8m2!3d42.3354484!4d-71.1027163) |
 | October 30th | [HMS’ Jeffrey Modell Center for Immunology, Room 100A](https://goo.gl/maps/23ck7uK8LggeecGY6) |
 | November 20th | [HMS’ Jeffrey Modell Center for Immunology, Room 100A](https://goo.gl/maps/23ck7uK8LggeecGY6) |
 | December 18th | [HMS’ Jeffrey Modell Center for Immunology, Room 100A](https://goo.gl/maps/23ck7uK8LggeecGY6) |

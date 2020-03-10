@@ -30,7 +30,7 @@ There is **no registration** for attending these, but seating and food will be a
 
 | Date |  Location |
 | :----: | :----: |
-| March 25th | [HMS’ Jeffrey Modell Center for Immunology, Room 100A](https://goo.gl/maps/23ck7uK8LggeecGY6) |
+| March 25th | CANCELLED |
 | April 29th | [HMS’ Jeffrey Modell Center for Immunology, Room 100A](https://goo.gl/maps/23ck7uK8LggeecGY6) |
 | May 27th | [HMS’ Jeffrey Modell Center for Immunology, Room 100A](https://goo.gl/maps/23ck7uK8LggeecGY6) |
 | June 24th | [HMS’ Jeffrey Modell Center for Immunology, Room 100A](https://goo.gl/maps/23ck7uK8LggeecGY6) |
